@@ -1,0 +1,122 @@
+[
+	[
+		{
+			"speaker" : "duncan",
+			"dialog" : "What bloody man is that? He can report, as seemeth by his plight, of the revolt the newest state.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "malcolm",
+			"dialog" : "This is the sergeant who like a good and hardy soldier fought 'gainst my captivity. Hail, brave friend! Say to the king the knowledge of the broil as thou didst leave it.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "Doubtful it stood; as two spent swimmers, that do cling together and choke their art. The merciless Macdonwald--",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "Worthy to be a rebel, for to that the multiplying villanies of nature do swarm upon him--from the western isles"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "Of kerns and gallowglasses is supplied; and fortune, on his damned quarrel smiling, show'd like a rebel's whore: but all's too weak: for brave Macbeth--well he deserves that name--"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "Disdaining fortune, with his brandish'd steel, which smoked with bloody execution, like valour's minion carved out his passage till he faced the slave;"
+		},
+		{
+			"speaker": "sergeant",
+			"dialog" : "Which ne'er shook hands, nor bade farewell to him, till he unseam'd him from the nave to the chaps, and fix'd his head upon our battlements."
+		},
+		{
+			"speaker" : "duncan",
+			"dialog" : "O valiant cousin! worthy gentleman!.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "sergeant",
+			"dialog" : "As whence the sun 'gins his reflection shipwrecking storms and direful thunders break, so from that spring whence comfort seem'd to come discomfort swells. Mark, king of Scotland, mark:",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "No sooner justice had with valour arm'd compell'd these skipping kerns to trust their heels, but the Norweyan lord surveying vantage, with furbish'd arms and new supplies of men began a fresh assault."
+		},
+		{	
+			"speaker" : "duncan",
+			"dialog" : "Dismay'd not this our captains, Macbeth and Banquo?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "Yes; as sparrows eagles, or the hare the lion. If I say sooth, I must report they were as cannons overcharged with double cracks, so they doubly redoubled strokes upon the foe:",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "Except they meant to bathe in reeking wounds, or memorise another Golgotha, I cannot tell. But I am faint, my gashes cry for help."
+		},
+		{
+			"speaker" : "duncan",
+			"dialog" : "So well thy words become thee as thy wounds; they smack of honour both. Go get him surgeons. Who comes here?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker": "malcolm",
+			"dialog" : "The worthy thane of Ross.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker": "lennox",
+			"dialog" : "What a haste looks through his eyes! So should he look that seems to speak things strange.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker": "ross",
+			"dialog": "God save the king!",
+			"newSpeaker" :"true"
+		},
+		{
+			"speaker":"duncan",
+			"dialog":"Whence camest thou, worthy thane?",
+			"newSpeaker":"true"
+		},
+		{
+			"speaker":"ross",
+			"dialog": "From Fife, great king; where the Norweyan banners flout the sky and fan our people cold. Norway himself, with terrible numbers, assisted by that most disloyal traitor the thane of Cawdor, began a dismal conflict;",
+			"newSpeaker":"true"
+		},
+		{
+			"speaker":"ross",
+			"dialog": "Till that Bellona's bridegroom, lapp'd in proof, confronted him with self-comparisons, point against point rebellious, arm 'gainst arm. Curbing his lavish spirit: and, to conclude, the victory fell on us."
+		},
+		{
+			"speaker": "duncan",
+			"dialog": "Great happiness!",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker":"ross",
+			"dialog": "That now sweno, the Norways' king, craves composition: nor would we deign him burial of his men till he disbursed at Saint Colme's inch ten thousand dollars to our general use.",
+			"newSpeaker":"true"
+		},
+		{
+			"speaker":"duncan",
+			"dialog": "No more that thane of Cawdor shall deceive our bosom interest: go pronounce his present death, and with his former title greet Macbeth.",
+			"newSpeaker":"true"
+		},
+		{
+			"speaker":"ross",
+			"dialog": "I'll see it done.",
+			"newSpeaker":"true"
+		},
+		{
+			"speaker":"duncan",
+			"dialog": "What he hath lost noble Macbeth hath won.",
+			"newSpeaker":"true"
+		}
+	]
+]
